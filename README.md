@@ -40,3 +40,8 @@
 * A complete document is reconstructed from the different-sub document fetched, for instance text, layout description, image videos, scruipts and more.
 
  ![](https://localiq.com/wp-content/uploads/2021/01/http-vs-https-encryption-e1610046712792.png)
+
+ * Some other resources
+1. https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+2. https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+3. https://developer.mozilla.org/en-US/docs/Web/HTTP/Status

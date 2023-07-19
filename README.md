@@ -45,3 +45,4 @@
 1. https://en.wikipedia.org/wiki/Man-in-the-middle_attack
 2. https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 3. https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+4. https://www.imperva.com/learn/application-security/osi-model/

@@ -46,3 +46,15 @@
 2. https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 3. https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 4. https://www.imperva.com/learn/application-security/osi-model/
+
+## Wednesday Mentor session @ Agileaguru
+1. Session
+* Infrastructure
+* IP address
+* DNS
+
+2. Session
+* HTTP, HTTPS
+* Networking: OSI Model
+* DNS
+* SSL
